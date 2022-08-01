@@ -14,11 +14,13 @@
 <div id="header" align="center">
   <a href='https://ko-fi.com/rjansen'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Spende mir!' />
 </div>
-<br/>
+<p align="center">
+  <h3 align="center">STATS</h3>
+</p>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rotvproHD&theme=dark&custom_title=/=============/ 0x4096 ~ Robert Jansen \==============\" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rotvproHD&theme=dark" />
 </div>
 <br/>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rotvproHD&langs_count=8&theme=dark&layout=compact&custom_title=/==========/ LANGUAGES \==========\" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rotvproHD&langs_count=8&theme=dark&layout=compact" />
 </div>
