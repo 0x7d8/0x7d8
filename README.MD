@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <h3 align="center">0x4096</h3>
+  <h3 align="center">0x7d8</h3>
 
   <p align="center">
     Some random Guy from Germany.
@@ -11,7 +11,7 @@
     That can Code!* :P
   </p>
   
-  <p align="center">My Favourite Project ive had to date is rjweb-server</p>
+  <p align="center">My Favourite Project I have had to date is rjweb-server</p>
   
   <br/>
   <p align="center">
@@ -26,9 +26,9 @@
   <h3 align="center">Stats</h3>
 </p>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rotvproHD&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0x7d8&theme=dark" />
 </div>
 <br/>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rotvproHD&langs_count=8&theme=dark&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x7d8&langs_count=8&theme=dark&layout=compact" />
 </div>
