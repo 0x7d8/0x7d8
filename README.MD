@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://img.rjansen.de/profile/pfp.png" width="100"/>
+  <img src="https://img.rjansen.dev/profile/pfp.png" width="100"/>
 </div>
 
 <p align="center">
@@ -16,7 +16,7 @@
   <br/>
   <p align="center">
     Most of my good Repositories are at<br/>
-    https://git.paperstudios.dev
+    https://git.rjns.dev
    </p>
 </p>
 <div id="header" align="center">
