@@ -13,7 +13,7 @@ them on [SourceXchange](https://www.sourcexchange.net/teams/356/profile) or [Bui
 - `@rjweb/utils` ([docs](https://utils.rjweb.dev), [repository](https://github.com/0x7d8/rjweb-utils))
 - `Bot` ([website](https://bot.rjns.dev))
 
-# Wakatime
+# [Wakatime](https://wakatime.com/@0x7d8)
 
 <!--START_SECTION:waka-->
 
