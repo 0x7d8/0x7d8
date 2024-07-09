@@ -16,4 +16,13 @@ them on [SourceXchange](https://www.sourcexchange.net/teams/356/profile) or [Bui
 # Wakatime
 
 <!--START_SECTION:waka-->
+
+```txt
+PHP              10 hrs 4 mins   █████████░░░░░░░░░░░░░░░░   36.34 %
+TypeScript       9 hrs 31 mins   ████████▓░░░░░░░░░░░░░░░░   34.36 %
+Bash             4 hrs 22 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.81 %
+JSON             50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+JavaScript       37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+```
+
 <!--END_SECTION:waka-->
