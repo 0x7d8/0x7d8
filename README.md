@@ -18,11 +18,11 @@ them on [SourceXchange](https://www.sourcexchange.net/teams/356/profile) or [Bui
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       3 hrs 33 mins   ██████████████░░░░░░░░░░░   56.29 %
-JSON             41 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 %
-PHP              32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
-Bash             27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
-Go               21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
+TypeScript       9 hrs 13 mins   ███████████████████░░░░░░   75.37 %
+JSON             36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
+PHP              35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
+Markdown         22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+Go               21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
 ```
 
 <!--END_SECTION:waka-->
