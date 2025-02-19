@@ -18,11 +18,11 @@ them on [SourceXchange](https://www.sourcexchange.net/teams/356/profile) or [Bui
 <!--START_SECTION:waka-->
 
 ```txt
-Rust                       32 hrs 53 mins  █████████████████████░░░░   84.07 %
-TOML                       1 hr 11 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
-Markdown                   1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
-Other                      1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
-YAML                       49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+Rust                       29 hrs 57 mins  ███████████████████░░░░░░   75.88 %
+Other                      4 hrs 28 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.33 %
+TOML                       1 hr 8 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+Markdown                   1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+YAML                       49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
 ```
 
 <!--END_SECTION:waka-->
