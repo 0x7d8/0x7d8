@@ -18,11 +18,11 @@ them on [SourceXchange](https://www.sourcexchange.net/teams/356/profile) or [Bui
 <!--START_SECTION:waka-->
 
 ```txt
-Rust                       17 hrs 45 mins  ██████████████████▓░░░░░░   75.11 %
-TypeScript                 1 hr 17 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
-Docker                     1 hr 15 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
-TOML                       54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
-Other                      26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+Rust                       19 hrs 26 mins  ████████████████████▓░░░░   82.17 %
+Docker                     53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+TOML                       53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+TypeScript                 30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+Other                      23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
 ```
 
 <!--END_SECTION:waka-->
