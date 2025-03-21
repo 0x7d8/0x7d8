@@ -28,6 +28,7 @@ I specialize in developing [Pterodactyl](https://pterodactyl.io) addons and vari
   - [🌐 Website](https://mcjars.app)
   - [📂 Organization](https://github.com/mcjars)
     - [API Repository](https://github.com/mcjars/api)
+    - [CLI Repository](https://github.com/mcjars/mcvcli)
     - [Website Repository](https://github.com/mcjars/www)
   - Provides easy access to various Minecraft server versions and implementations
   - Built with Rust, PostgreSQL, and Redis
