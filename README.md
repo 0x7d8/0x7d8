@@ -1,19 +1,57 @@
-# About Me
+# Robert Jansen
 
-Self-Taught Developer from Germany. [website](https://rjansen.dev)
+## 👨‍💻 Self-Taught Developer from Germany
 
-I develop [Pterodactyl](https://pterodactyl.io) Addons in my free time, you can find
-them on [SourceXchange](https://www.sourcexchange.net/teams/356/profile) or [BuiltByBit](https://builtbybit.com/search/3078009).
+[![Website](https://img.shields.io/badge/Website-rjansen.dev-blue)](https://rjansen.dev)
+[![SourceXchange](https://img.shields.io/badge/SourceXchange-Profile-orange)](https://www.sourcexchange.net/teams/356/profile)
+[![BuiltByBit](https://img.shields.io/badge/BuiltByBit-Profile-green)](https://builtbybit.com/search/3078009)
 
-# Projects
+I specialize in developing [Pterodactyl](https://pterodactyl.io) addons and various web applications. My passion lies in creating useful tools and services for developers and learning new things in the process.
 
-- `MCVAPI` ([website](https://versions.mcjars.app))
-- `MCJars` ([website](https://mcjars.app), [repository](https://github.com/0x7d8/mcjar))
-- `rjweb-server` ([docs](https://server.rjweb.dev), [repository](https://github.com/0x7d8/NPM_WEB-SERVER))
-- `@rjweb/utils` ([docs](https://utils.rjweb.dev), [repository](https://github.com/0x7d8/rjweb-utils))
-- `Bot` ([website](https://bot.rjns.dev))
+## 💻 Tech Stack
 
-# [Wakatime](https://wakatime.com/@0x7d8)
+### Languages
+- **Rust** - My primary language for backend development and performance-critical applications
+- **TypeScript** - For web applications and type-safe JavaScript development (also old backends)
+
+### Technologies & Tools
+- **PostgreSQL** - Relational database of choice for structured data
+- **Redis** - For caching and high-performance data storage
+- **Axum** - Rust web framework for building robust APIs
+- **Node.js** - JavaScript runtime for server-side applications
+- **rjweb-server** - My own web server framework for JavaScript/TypeScript applications
+
+## 🚀 Featured Projects
+
+### Minecraft Tools
+- **MCJars** - Minecraft server JAR file repository
+  - [🌐 Website](https://mcjars.app)
+  - [📂 Organization](https://github.com/mcjars)
+    - [API Repository](https://github.com/mcjars/api)
+    - [Website Repository](https://github.com/mcjars/www)
+  - Provides easy access to various Minecraft server versions and implementations
+  - Built with Rust, PostgreSQL, and Redis
+
+### Development Libraries
+- **rjweb-server** - A powerful and flexible web server framework
+  - [📚 Documentation](https://server.rjweb.dev) | [📂 Repository](https://github.com/0x7d8/NPM_WEB-SERVER)
+  - Built for performance and ease of use
+  - Developed in TypeScript for Node.js environments
+
+- **@rjweb/utils** - A collection of utility functions for JavaScript/TypeScript
+  - [📚 Documentation](https://utils.rjweb.dev) | [📂 Repository](https://github.com/0x7d8/rjweb-utils)
+  - Simplifies common programming tasks
+  - Written in TypeScript with full type safety
+
+### Other Projects
+- **Bot** - A multipurpose Discord bot
+  - [🌐 Website](https://bot.rjns.dev)
+  - Offers moderation, utility, and fun commands
+  - Built with TypeScript and Node.js
+
+## 💻 Coding Activity
+
+### [Wakatime](https://wakatime.com/@0x7d8)
 
 <!--START_SECTION:waka-->
 
@@ -26,3 +64,16 @@ YAML              21 mins         ▒░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+## 📫 Get in Touch
+
+Feel free to reach out for collaborations or just to say hi!
+
+- 🌐 [Website](https://rjansen.dev)
+- 💼 [SourceXchange](https://www.sourcexchange.net/teams/356/profile)
+- 🛠️ [BuiltByBit](https://builtbybit.com/search/3078009)
+- 📊 [WakaTime](https://wakatime.com/@0x7d8)
+
+---
+
+*Thanks for stopping by!*
