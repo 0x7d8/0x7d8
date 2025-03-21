@@ -52,8 +52,6 @@ I specialize in developing [Pterodactyl](https://pterodactyl.io) addons and vari
 
 ## 💻 Coding Activity
 
-### [Wakatime](https://wakatime.com/@0x7d8)
-
 <!--START_SECTION:waka-->
 
 ```txt
@@ -72,7 +70,7 @@ Feel free to reach out for collaborations or just to say hi!
 
 - 🌐 [Website](https://rjansen.dev)
 - 💼 [SourceXchange](https://www.sourcexchange.net/teams/356/profile)
-- 🛠️ [BuiltByBit](https://builtbybit.com/search/3078009)
+- 🛠️ [BuiltByBit](https://builtbybit.com/creators/0x7d8.387189)
 - 📊 [WakaTime](https://wakatime.com/@0x7d8)
 
 ---
