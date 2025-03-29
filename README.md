@@ -4,7 +4,7 @@
 
 [![Website](https://img.shields.io/badge/Website-rjansen.dev-blue)](https://rjansen.dev)
 [![SourceXchange](https://img.shields.io/badge/SourceXchange-Profile-orange)](https://www.sourcexchange.net/teams/356/profile)
-[![BuiltByBit](https://img.shields.io/badge/BuiltByBit-Profile-green)](https://builtbybit.com/search/3078009)
+[![BuiltByBit](https://img.shields.io/badge/BuiltByBit-Profile-green)](https://builtbybit.com/creators/0x7d8.387189)
 
 I specialize in developing [Pterodactyl](https://pterodactyl.io) addons and various web applications. My passion lies in creating useful tools and services for developers and learning new things in the process.
 
