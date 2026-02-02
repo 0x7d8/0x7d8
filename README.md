@@ -55,11 +55,11 @@ I specialize in developing [Pterodactyl](https://pterodactyl.io) addons and vari
 <!--START_SECTION:waka-->
 
 ```txt
-Rust         19 hrs 28 mins  █████████████▒░░░░░░░░░░░   53.09 %
-TypeScript   11 hrs 8 mins   ███████▓░░░░░░░░░░░░░░░░░   30.36 %
-Bash         2 hrs 11 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
-TOML         1 hr 12 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
-Other        54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+Rust         22 hrs 59 mins  ███████████████░░░░░░░░░░   59.43 %
+TypeScript   8 hrs 58 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.21 %
+Bash         2 hrs 13 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
+TOML         1 hr 11 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+Other        54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
 ```
 
 <!--END_SECTION:waka-->
