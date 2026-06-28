@@ -1,59 +1,73 @@
+<div align="center">
+
 # Robert Jansen
 
-## 👨‍💻 Self-Taught Developer from Germany
+Self-taught developer from Germany, building game server infrastructure and developer tooling mostly in Rust.
 
-[![Website](https://img.shields.io/badge/Website-rjansen.dev-blue)](https://rjansen.dev)
-[![SourceXchange](https://img.shields.io/badge/SourceXchange-Profile-orange)](https://www.sourcexchange.net/teams/356/profile)
-[![BuiltByBit](https://img.shields.io/badge/BuiltByBit-Profile-green)](https://builtbybit.com/creators/0x7d8.387189)
+[![Website](https://img.shields.io/badge/Website-rjansen.dev-blue?style=for-the-badge)](https://rjansen.dev)
+[![SourceXchange](https://img.shields.io/badge/SourceXchange-Profile-orange?style=for-the-badge)](https://www.sourcexchange.net/teams/356/profile)
+[![BuiltByBit](https://img.shields.io/badge/BuiltByBit-Profile-green?style=for-the-badge)](https://builtbybit.com/creators/0x7d8.387189)
 
-I specialize in developing [Pterodactyl](https://pterodactyl.io) addons and various web applications. My passion lies in creating useful tools and services for developers and learning new things in the process.
+</div>
 
-## 💻 Tech Stack
+---
 
-### Languages
-- **Rust** - My primary language for backend development and performance-critical applications
-- **TypeScript** - For web applications and type-safe JavaScript development (also old backends)
+## Tech Stack
 
-### Technologies & Tools
-- **PostgreSQL** - Relational database of choice for structured data
-- **Redis** - For caching and high-performance data storage
-- **Axum** - Rust web framework for building robust APIs
-- **Node.js** - JavaScript runtime for server-side applications
-- **rjweb-server** - My own web server framework for JavaScript/TypeScript applications
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-## 🚀 Featured Projects
+- **Rust** - backend and performance-critical work, usually with Axum and Tokio
+- **TypeScript** - frontends (React, Mantine, Tailwind) and older backends
+- **PostgreSQL / Redis** - structured storage and caching
 
-### Minecraft Tools
-- **MCJars** - Minecraft server JAR file repository
-  - [🌐 Website](https://mcjars.app)
-  - [📂 Organization](https://github.com/mcjars)
-    - [API Repository](https://github.com/mcjars/api)
-    - [CLI Repository](https://github.com/mcjars/mcvcli)
-    - [Website Repository](https://github.com/mcjars/www)
-  - Provides easy access to various Minecraft server versions and implementations
-  - Built with Rust, PostgreSQL, and Redis
+---
 
-### Development Libraries
-- **rjweb-server** - A powerful and flexible web server framework
-  - [📚 Documentation](https://server.rjweb.dev) | [📂 Repository](https://github.com/0x7d8/NPM_WEB-SERVER)
-  - Built for performance and ease of use
-  - Developed in TypeScript for Node.js environments
+## Projects
 
-- **@rjweb/utils** - A collection of utility functions for JavaScript/TypeScript
-  - [📚 Documentation](https://utils.rjweb.dev) | [📂 Repository](https://github.com/0x7d8/rjweb-utils)
-  - Simplifies common programming tasks
-  - Written in TypeScript with full type safety
+### 🚀 Calagopus
 
-### Other Projects
-- **Bot** - A multipurpose Discord bot
-  - [🌐 Website](https://bot.rjns.dev)
-  - Offers moderation, utility, and fun commands
-  - Built with TypeScript and Node.js
+A Pterodactyl/Pelican alternative, written from scratch in Rust. Panel plus a Wings-compatible daemon, focused on speed and maintainability.
 
-## 💻 Coding Activity
+[![panel](https://img.shields.io/badge/panel-181717?style=flat&logo=github&logoColor=white)](https://github.com/calagopus/panel)
+[![wings](https://img.shields.io/badge/wings-181717?style=flat&logo=github&logoColor=white)](https://github.com/calagopus/wings)
+
+### ⛏️ MCJars
+
+Repository for Minecraft server JARs across providers. Built with Rust, PostgreSQL and Redis.
+
+[![Website](https://img.shields.io/badge/Website-2188FF?style=flat&logo=googlechrome&logoColor=white)](https://mcjars.app)
+[![mcvcli](https://img.shields.io/badge/mcvcli-181717?style=flat&logo=github&logoColor=white)](https://github.com/mcjars/mcvcli)
+[![www](https://img.shields.io/badge/www-181717?style=flat&logo=github&logoColor=white)](https://github.com/mcjars/www)
+
+### 🌐 rjweb-server
+
+My own web server framework for Node.js.
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/0x7d8/NPM_WEB-SERVER)
+[![Docs](https://img.shields.io/badge/Docs-2188FF?style=flat&logo=readthedocs&logoColor=white)](https://server.rjweb.dev)
+
+### 🧰 @rjweb/utils
+
+A collection of utility functions for JS/TS.
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/0x7d8/rjweb-utils)
+[![Docs](https://img.shields.io/badge/Docs-2188FF?style=flat&logo=readthedocs&logoColor=white)](https://utils.rjweb.dev)
+
+### 🤖 Discord bot
+
+Moderation and utility commands, TypeScript.
+
+[![Website](https://img.shields.io/badge/Website-2188FF?style=flat&logo=googlechrome&logoColor=white)](https://bot.rjns.dev)
+
+---
+
+## Coding Activity
 
 <!--START_SECTION:waka-->
-
 ```txt
 Rust         20 hrs 29 mins        █████████████████░░░░░░░░   67.57 %
 TypeScript   6 hrs 41 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.08 %
@@ -61,18 +75,13 @@ Markdown     38 mins               ▓░░░░░░░░░░░░░░
 JSON         37 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
 TOML         30 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
 ```
-
 <!--END_SECTION:waka-->
-
-## 📫 Get in Touch
-
-Feel free to reach out for collaborations or just to say hi!
-
-- 🌐 [Website](https://rjansen.dev)
-- 💼 [SourceXchange](https://www.sourcexchange.net/teams/356/profile)
-- 🛠️ [BuiltByBit](https://builtbybit.com/creators/0x7d8.387189)
-- 📊 [WakaTime](https://wakatime.com/@0x7d8)
 
 ---
 
-*Thanks for stopping by!*
+<div align="center">
+
+**Find me elsewhere:**
+[Website](https://rjansen.dev) · [SourceXchange](https://www.sourcexchange.net/teams/356/profile) · [BuiltByBit](https://builtbybit.com/creators/0x7d8.387189) · [WakaTime](https://wakatime.com/@0x7d8)
+
+</div>
