@@ -70,11 +70,11 @@ Moderation and utility commands, TypeScript.
 <!--START_SECTION:waka-->
 
 ```txt
-Rust         7 hrs 5 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.00 %
-TypeScript   4 hrs 48 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.62 %
-Markdown     4 hrs 38 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.03 %
-Other        1 hr 39 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
-Diff         1 hr 20 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
+Rust         5 hrs 19 mins         ██████░░░░░░░░░░░░░░░░░░░   23.49 %
+TypeScript   4 hrs 58 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.95 %
+Markdown     4 hrs 19 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.06 %
+Other        1 hr 27 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
+HTML         1 hr 15 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
 ```
 
 <!--END_SECTION:waka-->
